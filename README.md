@@ -1,4 +1,4 @@
-# HR Analytics Project
+## HR Analytics Project
 Every year 15% of the employees of XYZ company leave the organization and hence are required to be replaced 
 with the talent pool available in the job market. The management believes that this level of attrition 
 (employees leaving, either on their own or because they got fired) is bad for the company because of the 
